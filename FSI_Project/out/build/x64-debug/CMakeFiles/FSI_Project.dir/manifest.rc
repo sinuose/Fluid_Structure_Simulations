@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/mj/Documents/GitHub/Fluid_Structure_Simulations/FSI_Project/out/build/x64-debug/CMakeFiles/FSI_Project.dir/embed.manifest"

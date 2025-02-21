@@ -1,0 +1,6 @@
+# ninja log v6
+24	66	7618202504166151	CMakeFiles/FSI_Project.dir/aleMesh.cpp.obj	94a269f4ceae983
+876	1008	7618209577089754	FSI_Project.exe	12c8911da552188d
+21	33	7618202488489564	clean	8c45b54705a541e8
+9	875	7618209568419005	CMakeFiles/FSI_Project.dir/utils.cpp.obj	ad0084891ca2d7d7
+16	1851	7618202504076449	CMakeFiles/FSI_Project.dir/mj_Solver.cpp.obj	928767d58fedb80c

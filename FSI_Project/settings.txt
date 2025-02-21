@@ -1,0 +1,34 @@
+// -----------------------------------------------------------------------------
+// Settings for the Solver
+// -----------------------------------------------------------------------------
+
+// Solver:
+nLIterMin 2
+nLIterMax 10
+dt 0.1
+maxSteps 2000
+rhoinfty 0.0
+nLTol 5e-4
+outFreq 100
+intgOutFreq 1
+
+// Fluid properties:
+
+dens 1000.0
+visc 5.0
+gravFrc 0 0
+
+// Structure properties:
+
+mass 7853.9816
+
+// damping as [Cxx Cyy Cxy]
+damping 0.0 0.0 0.0
+
+// stiffness as [Kxx Kyy Kxy];
+
+stiffness 12402.51062 12402.51062 0.0
+
+// direction of movement
+dom 1.0 1.0
+gravity 0 0
